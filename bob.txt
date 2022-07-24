@@ -3,6 +3,4 @@ C
 C++
 C#
 java
-java script
-python
 

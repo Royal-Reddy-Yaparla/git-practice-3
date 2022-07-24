@@ -1,8 +1,6 @@
-list of countries
+List of countries
 India
 Sri Lanka
 China
 Nepal
-Pakistan
-Afghanistan
 
